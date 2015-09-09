@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-041-87d3-3b6a4e">
+    <release tarname="libgettextpo-0.18.3.1-1-mingw32-dll-0.tar" />
+    <references>
+        <sysroot id="sysroot-0-002-a7c6-d7dbb5" />
+    </references>
+    <manifest>
+        <dir path="bin" />
+        <file path="bin/libgettextlib-0-18-3.dll" />
+        <file path="bin/libgettextpo-0.dll" />
+        <file path="bin/libgettextsrc-0-18-3.dll" />
+        <file path="bin/libintl-8.dll" />
+    </manifest>
+</package>

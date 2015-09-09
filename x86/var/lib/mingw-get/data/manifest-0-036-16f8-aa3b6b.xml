@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-036-16f8-aa3b6b">
+    <release tarname="bash-3.1.23-1-msys-1.0.18-bin.tar.xz" />
+    <references>
+        <sysroot id="sysroot-0-011-664d-7cd9c6" />
+    </references>
+    <manifest>
+        <dir path="bin" />
+        <file path="bin/bash.exe" />
+        <file path="bin/bashbug" />
+        <file path="bin/sh.exe" />
+    </manifest>
+</package>

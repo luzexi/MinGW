@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-032-1c0d-44fa90">
+    <release tarname="gdb-7.6.1-1-mingw32-bin.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-002-a7c6-d7dbb5" />
+    </references>
+    <manifest>
+        <dir path="bin" />
+        <file path="bin/gdb.exe" />
+        <file path="bin/gdbserver.exe" />
+        <dir path="share" />
+        <dir path="share/gdb" />
+        <dir path="share/gdb/python" />
+        <dir path="share/gdb/python/gdb" />
+        <dir path="share/gdb/python/gdb/command" />
+        <file path="share/gdb/python/gdb/command/explore.py" />
+        <file path="share/gdb/python/gdb/command/pretty_printers.py" />
+        <file path="share/gdb/python/gdb/command/prompt.py" />
+        <file path="share/gdb/python/gdb/command/type_printers.py" />
+        <file path="share/gdb/python/gdb/command/__init__.py" />
+        <dir path="share/gdb/python/gdb/function" />
+        <file path="share/gdb/python/gdb/function/strfns.py" />
+        <file path="share/gdb/python/gdb/function/__init__.py" />
+        <file path="share/gdb/python/gdb/printing.py" />
+        <file path="share/gdb/python/gdb/prompt.py" />
+        <file path="share/gdb/python/gdb/types.py" />
+        <file path="share/gdb/python/gdb/__init__.py" />
+        <dir path="share/gdb/syscalls" />
+        <file path="share/gdb/syscalls/amd64-linux.xml" />
+        <file path="share/gdb/syscalls/gdb-syscalls.dtd" />
+        <file path="share/gdb/syscalls/i386-linux.xml" />
+        <file path="share/gdb/syscalls/mips-n32-linux.xml" />
+        <file path="share/gdb/syscalls/mips-n64-linux.xml" />
+        <file path="share/gdb/syscalls/mips-o32-linux.xml" />
+        <file path="share/gdb/syscalls/ppc-linux.xml" />
+        <file path="share/gdb/syscalls/ppc64-linux.xml" />
+        <file path="share/gdb/syscalls/sparc-linux.xml" />
+        <file path="share/gdb/syscalls/sparc64-linux.xml" />
+    </manifest>
+</package>

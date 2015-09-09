@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-037-ac23-525c4e">
+    <release tarname="gcc-core-4.8.1-4-mingw32-lic.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-002-a7c6-d7dbb5" />
+    </references>
+    <manifest>
+        <dir path="bin" />
+        <dir path="share" />
+        <dir path="share/doc" />
+        <dir path="share/doc/gcc" />
+        <dir path="share/doc/gcc/4.8.1" />
+        <file path="share/doc/gcc/4.8.1/COPYING" />
+        <file path="share/doc/gcc/4.8.1/COPYING.LIB" />
+        <file path="share/doc/gcc/4.8.1/COPYING.RUNTIME" />
+        <file path="share/doc/gcc/4.8.1/COPYING3" />
+        <file path="share/doc/gcc/4.8.1/COPYING3.LIB" />
+        <dir path="share/doc/gcc/4.8.1/gcc" />
+        <file path="share/doc/gcc/4.8.1/gcc/COPYING" />
+        <file path="share/doc/gcc/4.8.1/gcc/COPYING.LIB" />
+        <file path="share/doc/gcc/4.8.1/gcc/COPYING3" />
+        <file path="share/doc/gcc/4.8.1/gcc/COPYING3.LIB" />
+        <dir path="share/doc/gcc/4.8.1/include" />
+        <file path="share/doc/gcc/4.8.1/include/COPYING" />
+        <file path="share/doc/gcc/4.8.1/include/COPYING3" />
+        <dir path="share/doc/gcc/4.8.1/libffi" />
+        <file path="share/doc/gcc/4.8.1/libffi/LICENSE" />
+        <dir path="share/doc/gcc/4.8.1/libiberty" />
+        <file path="share/doc/gcc/4.8.1/libiberty/COPYING.LIB" />
+        <dir path="share/doc/gcc/4.8.1/libquadmath" />
+        <file path="share/doc/gcc/4.8.1/libquadmath/COPYING.LIB" />
+        <dir path="share/doc/gcc/4.8.1/libsanitizer" />
+        <file path="share/doc/gcc/4.8.1/libsanitizer/LICENSE.TXT" />
+        <dir path="share/doc/gcc/4.8.1/zlib" />
+        <dir path="share/doc/gcc/4.8.1/zlib/contrib" />
+        <dir path="share/doc/gcc/4.8.1/zlib/contrib/dotzlib" />
+        <file path="share/doc/gcc/4.8.1/zlib/contrib/dotzlib/LICENSE_1_0.txt" />
+    </manifest>
+</package>

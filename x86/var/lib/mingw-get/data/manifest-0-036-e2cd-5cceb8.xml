@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-036-e2cd-5cceb8">
+    <release tarname="gcc-c++-4.8.1-4-mingw32-bin.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-002-a7c6-d7dbb5" />
+    </references>
+    <manifest>
+        <dir path="bin" />
+        <file path="bin/c++.exe" />
+        <file path="bin/g++.exe" />
+        <file path="bin/mingw32-c++.exe" />
+        <file path="bin/mingw32-g++.exe" />
+    </manifest>
+</package>

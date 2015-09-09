@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-036-4b2f-678f07">
+    <release tarname="libpthread-2.9.1-1-mingw32-dll-2.tar" />
+    <references>
+        <sysroot id="sysroot-0-002-a7c6-d7dbb5" />
+    </references>
+    <manifest>
+        <dir path="bin" />
+        <file path="bin/pthreadGC2.dll" />
+        <file path="bin/pthreadGCE2.dll" />
+    </manifest>
+</package>

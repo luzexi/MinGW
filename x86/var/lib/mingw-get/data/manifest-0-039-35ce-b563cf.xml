@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-039-35ce-b563cf">
+    <release tarname="dos2unix-7.1-1-msys-1.0.17-bin.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-011-664d-7cd9c6" />
+    </references>
+    <manifest>
+        <dir path="bin" />
+        <file path="bin/d2u.exe" />
+        <file path="bin/dos2unix.exe" />
+        <file path="bin/mac2unix.exe" />
+        <file path="bin/u2d.exe" />
+        <file path="bin/unix2dos.exe" />
+        <file path="bin/unix2mac.exe" />
+        <dir path="share/locale" />
+        <dir path="share/locale/da" />
+        <dir path="share/locale/da/LC_MESSAGES" />
+        <file path="share/locale/da/LC_MESSAGES/dos2unix.mo" />
+        <dir path="share/locale/de" />
+        <dir path="share/locale/de/LC_MESSAGES" />
+        <file path="share/locale/de/LC_MESSAGES/dos2unix.mo" />
+        <dir path="share/locale/eo" />
+        <dir path="share/locale/eo/LC_MESSAGES" />
+        <file path="share/locale/eo/LC_MESSAGES/dos2unix.mo" />
+        <dir path="share/locale/es" />
+        <dir path="share/locale/es/LC_MESSAGES" />
+        <file path="share/locale/es/LC_MESSAGES/dos2unix.mo" />
+        <dir path="share/locale/fr" />
+        <dir path="share/locale/fr/LC_MESSAGES" />
+        <file path="share/locale/fr/LC_MESSAGES/dos2unix.mo" />
+        <dir path="share/locale/hu" />
+        <dir path="share/locale/hu/LC_MESSAGES" />
+        <file path="share/locale/hu/LC_MESSAGES/dos2unix.mo" />
+        <dir path="share/locale/nb" />
+        <dir path="share/locale/nb/LC_MESSAGES" />
+        <file path="share/locale/nb/LC_MESSAGES/dos2unix.mo" />
+        <dir path="share/locale/nl" />
+        <dir path="share/locale/nl/LC_MESSAGES" />
+        <file path="share/locale/nl/LC_MESSAGES/dos2unix.mo" />
+        <dir path="share/locale/pl" />
+        <dir path="share/locale/pl/LC_MESSAGES" />
+        <file path="share/locale/pl/LC_MESSAGES/dos2unix.mo" />
+        <dir path="share/locale/pt_BR" />
+        <dir path="share/locale/pt_BR/LC_MESSAGES" />
+        <file path="share/locale/pt_BR/LC_MESSAGES/dos2unix.mo" />
+        <dir path="share/locale/ru" />
+        <dir path="share/locale/ru/LC_MESSAGES" />
+        <file path="share/locale/ru/LC_MESSAGES/dos2unix.mo" />
+        <dir path="share/locale/sr" />
+        <dir path="share/locale/sr/LC_MESSAGES" />
+        <file path="share/locale/sr/LC_MESSAGES/dos2unix.mo" />
+        <dir path="share/locale/uk" />
+        <dir path="share/locale/uk/LC_MESSAGES" />
+        <file path="share/locale/uk/LC_MESSAGES/dos2unix.mo" />
+        <dir path="share/locale/vi" />
+        <dir path="share/locale/vi/LC_MESSAGES" />
+        <file path="share/locale/vi/LC_MESSAGES/dos2unix.mo" />
+        <dir path="share/locale/zh_TW" />
+        <dir path="share/locale/zh_TW/LC_MESSAGES" />
+        <file path="share/locale/zh_TW/LC_MESSAGES/dos2unix.mo" />
+    </manifest>
+</package>

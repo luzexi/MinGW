@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-039-0549-9428f3">
+    <release tarname="gettext-0.18.3.1-1-mingw32-bin.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-002-a7c6-d7dbb5" />
+    </references>
+    <manifest>
+        <dir path="bin" />
+        <file path="bin/autopoint" />
+        <file path="bin/envsubst.exe" />
+        <file path="bin/gettext.exe" />
+        <file path="bin/gettext.sh" />
+        <file path="bin/gettextize" />
+        <file path="bin/msgattrib.exe" />
+        <file path="bin/msgcat.exe" />
+        <file path="bin/msgcmp.exe" />
+        <file path="bin/msgcomm.exe" />
+        <file path="bin/msgconv.exe" />
+        <file path="bin/msgen.exe" />
+        <file path="bin/msgexec.exe" />
+        <file path="bin/msgfilter.exe" />
+        <file path="bin/msgfmt.exe" />
+        <file path="bin/msggrep.exe" />
+        <file path="bin/msginit.exe" />
+        <file path="bin/msgmerge.exe" />
+        <file path="bin/msgunfmt.exe" />
+        <file path="bin/msguniq.exe" />
+        <file path="bin/ngettext.exe" />
+        <file path="bin/recode-sr-latin.exe" />
+        <file path="bin/xgettext.exe" />
+    </manifest>
+</package>
